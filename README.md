@@ -1,2 +1,2 @@
-# tec-SUBMARINE
-TEC-1 controlled sub simulator, console, model
+# tec-SUB
+TEC-1 controlled submarine simulator, console, system model, etc
